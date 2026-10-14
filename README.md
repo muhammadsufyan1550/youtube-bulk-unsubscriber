@@ -17,16 +17,12 @@ A clean, privacy-first tool to bulk-unsubscribe from YouTube channels with an in
 
 ## 🧩 Option 1: Install as a Chrome Extension (Recommended)
 
-You can load this directly into **Chrome**, **Brave**, or **Edge**:
-
-1. Open your browser and go to `chrome://extensions` (or `edge://extensions`).
-2. Toggle on **"Developer mode"** in the top-right corner.
-3. Click the **"Load unpacked"** button in the top-left.
-4. Select the **`extension`** folder inside this directory:
-   ```
-   C:\Users\media\Music\yt-unsubscriber\extension
-   ```
-5. Pin the extension to your toolbar. When you visit [youtube.com/feed/channels](https://www.youtube.com/feed/channels), click the extension icon and hit **"⚡ Launch Control Panel"**!
+1. Download **[`youtube-bulk-unsubscriber-extension.zip`](https://github.com/muhammadsufyan1550/youtube-bulk-unsubscriber/releases/latest)** from Releases and extract it to a folder.
+2. Open your browser and go to `chrome://extensions` (or `edge://extensions`).
+3. Toggle on **"Developer mode"** in the top-right corner.
+4. Click the **"Load unpacked"** button in the top-left corner.
+5. Select the extracted **`extension`** folder.
+6. Pin the extension to your toolbar. When you visit [youtube.com/feed/channels](https://www.youtube.com/feed/channels), click the extension icon and hit **"⚡ Launch Control Panel"**!
 
 ---
 
