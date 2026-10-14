@@ -1,0 +1,7 @@
+# Browser Automation
+playwright>=1.40.0
+
+# Official Google YouTube Data API v3 (Optional)
+google-api-python-client>=2.100.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1

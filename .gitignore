@@ -1,0 +1,23 @@
+# Large video files (keep locally / upload directly to LinkedIn)
+*.mp4
+*.webm
+*.mkv
+
+# Extension distribution zip (upload to GitHub Releases, not code repo)
+*.zip
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local browser profile data (playwright)
+chrome_profile/
+
+# OAuth and secret tokens
+client_secret*.json
+token.json
+
+# OS generated files
+Thumbs.db
+.DS_Store
